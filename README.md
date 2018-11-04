@@ -10,4 +10,4 @@ We have made attempts to simplify your work. We have added utility functions for
 We have written tests for each problem so you know when you've solved it.
 You must write the code for each problem where you see `failwith "Not Implemented";;`.
 
-Happ coding.
+Happy coding.
